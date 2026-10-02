@@ -1,3 +1,6 @@
+# Agentes Econômicos Regulares
+## Atividade 4
+<img width="881" height="718" alt="image" src="https://github.com/user-attachments/assets/d1660d21-6b6b-46f7-b202-4cdbf80a7eb5" />
 
 
 
