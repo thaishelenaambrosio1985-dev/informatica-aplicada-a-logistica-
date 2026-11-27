@@ -37,7 +37,10 @@
 ## Atividade 5 
 <img width="1312" height="728" alt="image" src="https://github.com/user-attachments/assets/8f170dd7-ad23-4f1b-bdb8-0bcb4d26cb28" />
 
-
-## Regressão Linear Sorvete 
+## Regressão Linear Sorvete Atividade 6
 
 <img width="855" height="556" alt="image" src="https://github.com/user-attachments/assets/7cc0b034-3b53-4707-923b-b36dbbda9067" />
+
+## Idade media do Homem Atividade 7
+<img width="1088" height="633" alt="image" src="https://github.com/user-attachments/assets/4f38db33-44bb-4cd5-9bdf-1545e8a0663f" />
+
