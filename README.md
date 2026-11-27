@@ -36,3 +36,8 @@
 
 ## Atividade 5 
 <img width="1312" height="728" alt="image" src="https://github.com/user-attachments/assets/8f170dd7-ad23-4f1b-bdb8-0bcb4d26cb28" />
+
+
+## Regressão Linear Sorvete 
+
+<img width="855" height="556" alt="image" src="https://github.com/user-attachments/assets/7cc0b034-3b53-4707-923b-b36dbbda9067" />
