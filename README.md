@@ -44,3 +44,5 @@
 ## Idade media do Homem Atividade 7
 <img width="1088" height="633" alt="image" src="https://github.com/user-attachments/assets/4f38db33-44bb-4cd5-9bdf-1545e8a0663f" />
 
+
+
